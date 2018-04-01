@@ -1,6 +1,6 @@
 # [parse.mip.xuexb.com](https://parse.mip.xuexb.com)
 
-HTML 转 MIP-HTML 在线工具
+HTML 转 MIP-HTML 在线工具，依赖 [mip-parse-html](https://github.com/xuexb/mip-parse-html) 模块解析。
 
 ![node version required](https://img.shields.io/badge/node-%3E=7.8.0-red.svg)
 
