@@ -1,4 +1,4 @@
-# parse.mip.xuexb.com
+# [parse.mip.xuexb.com](https://parse.mip.xuexb.com)
 
 HTML 转 MIP-HTML 在线工具
 
